@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "actaphilologoru00unkngoog_0168.png"; bbox 0 0 2558 4340; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 163 1164 1261 1810">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 163 1164 1261 1810">
+     <span class='ocr_line' id='line_1_1' title="bbox 593 1164 811 1238; baseline 0 -68"><span class='ocrx_word' id='word_1_1' title='bbox 593 1164 621 1238; x_wconf 32' lang='lat'><em>¹·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 807 1166 811 1170; x_wconf 78' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 163 1385 1215 1520; baseline 0.01 -42"><span class='ocrx_word' id='word_1_3' title='bbox 163 1469 168 1478; x_wconf 89' lang='grc'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 256 1385 940 1490; x_wconf 66' lang='grc' dir='ltr'><em>ὀΑιιοιὶΗΛιΤιΝαεΜ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 999 1515 1002 1520; x_wconf 66' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1058 1427 1063 1440; x_wconf 95' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1201 1386 1215 1430; x_wconf 69' lang='grc'><em>’</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 207 1563 1261 1810; baseline 0.003 -89"><span class='ocrx_word' id='word_1_8' title='bbox 207 1627 1005 1810; x_wconf 53' lang='grc' dir='ltr'><em>ᾼΝιμΑΜΕΒε-ιοΝΕε</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1053 1563 1061 1574; x_wconf 62' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1260 1589 1261 1596; x_wconf 9' lang='grc' dir='ltr'><em>Ν</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 153 2023 1121 2314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 153 2013 1121 2314">
+     <span class='ocr_line' id='line_1_4' title="bbox 153 2023 1121 2314; baseline 0.011 -69"><span class='ocrx_word' id='word_1_11' title='bbox 153 2023 1121 2314; x_wconf 62' lang='lat' dir='ltr'><strong>PLVTARCHVM..</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 440 2397 786 2428">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 440 2397 786 2428">
+     <span class='ocr_line' id='line_1_5' title="bbox 440 2397 786 2428; baseline -0.003 -6"><span class='ocrx_word' id='word_1_12' title='bbox 440 2397 786 2428; x_wconf 58' lang='lat' dir='ltr'><em>-m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 276 2725 969 2828">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 276 2725 969 2828">
+     <span class='ocr_line' id='line_1_6' title="bbox 276 2725 969 2828; baseline 0.003 -22"><span class='ocrx_word' id='word_1_13' title='bbox 276 2725 286 2820; x_wconf 68' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_14' title='bbox 401 2727 846 2811; x_wconf 45' lang='lat' dir='ltr'><em>Pssnssseunnh</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 930 2817 969 2828; x_wconf 34' lang='grc'><em>,,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1284 4340">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1284 4340">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1284 4340; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1284 4340; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
